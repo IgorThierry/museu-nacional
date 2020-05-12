@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img alt="Museu Nacional" src="./img/museu-nacional-site.png" />
+    <img alt="Museu Nacional" src="img/museu-nacional-site.PNG" />
 </p>
 
 ## 🚀 Projeto
